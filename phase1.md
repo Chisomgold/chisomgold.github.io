@@ -6,10 +6,9 @@ nav_order: 2
 
 # Phase I – Foundations
 
-This phase covered the basics of programming and data science using Python and Colab notebooks.
+This phase covered the basics of programming and data science in bioinformatics using Python and Colab notebooks. I provide resources on environment setup with a bias to Colab as it is easier to access and navigate. I also provided introductory resources to Python, Bash, and other mentioned concepts.
 
 ## Materials
 
-- [Course Slides (PDF)](https://drive.google.com/file/d/1qwJLwcXTURJAh2rEUWK5YF1JsdN4rgYB/view?usp=sharing)
-- [Video 1](https://youtu.be/eMDWS1Oo2JQ)
+- [Introductory video](https://youtu.be/eMDWS1Oo2JQ)
 - [Colab Notebook](https://colab.research.google.com/drive/1Hy3ZA8OjdGXNseUVb3-krr6n34xRMKez?usp=sharing)
