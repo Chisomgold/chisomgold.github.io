@@ -1,3 +1,13 @@
 title: Bioinformatics Mini-Course
 theme: just-the-docs
-baseurl: "" 
+baseurl: ""
+
+nav:
+  - title: Home
+    url: /
+  - title: Phase I – Foundations
+    url: /phase1
+  - title: Phase II – Hands-On Tracks
+    url: /phase2
+  - title: Final Projects
+    url: /projects
